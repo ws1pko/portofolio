@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 1920px;
+    max-height: 1080px;
+ 
+}
+
+.back {
+    width: 1920px;
+    height: 118px;
+    background-color: rgb(255, 255, 255);
+}
+
+.ack {
+    margin: 0px;
+    padding: 0px;
+    background-image: url('images/fon.jpg');
+    background-size: cover;
+    width: 1920px;
+    height: 962px;
+    position: relative;
+}
+
+.penskoy {
+    color: rgb(0, 0, 0);
+    font-family: Roboto;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 75px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.hek {
+    font-family: Roboto;
+    font-size: 33px;
+    font-weight: 900;
+    line-height: 50.39px;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    display: flex;
+    margin-left: 25px;
+}
+
+.her {
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 42.19px;
+    text-align: left;
+    color: #FFFFFF;
+    display: flex;
+    padding-top: 250px;
+    position: relative;
+}
+
+.kot {
+    padding: 0;
+    margin: 0;
+}
+
+.aker {
+   
+    display: block;
+    position: absolute;
+
+    margin-left:50px;
+top: 300px;
+}
+.aker img{
+    width:700px ;
+    height: 900px;
+}
+.tg{
+    display: block;
+    position: absolute;
+    margin-left:1720px;
+    top:120px;
+}
+.tg img{
+    width:200px ;
+    height: 300px;
+}
